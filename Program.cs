@@ -12,6 +12,7 @@ namespace LessonGit1
         {
             Console.WriteLine("gg_c0");
             Console.WriteLine("c1");
+            Console.WriteLine("c2");
         }
     }
 }
