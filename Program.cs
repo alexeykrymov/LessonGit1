@@ -10,8 +10,7 @@ namespace LessonGit1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("gg_c0");
-            Console.WriteLine("c1");
+            
         }
     }
 }
