@@ -11,7 +11,11 @@ namespace LessonGit1
         static void Main(string[] args)
         {
             Console.WriteLine("c_0");
+<<<<<<< HEAD
             Console.WriteLine("c_2");
+=======
+            Console.WriteLine("c_1(bugFix2)");
+>>>>>>> bugFix2
         }
     }
 }
