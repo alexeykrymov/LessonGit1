@@ -13,6 +13,8 @@ namespace LessonGit1
             Console.WriteLine("c_0");
             Console.WriteLine("c_2");
             Console.WriteLine("c_1(bugFix2)");
+            Console.WriteLine("a0");
+            Console.WriteLine("a1");
         }
     }
 }
